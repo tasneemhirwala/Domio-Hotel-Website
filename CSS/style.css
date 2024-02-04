@@ -1,0 +1,177 @@
+x{
+  background-color: white;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+#header {
+  background-color: white;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  transition: 0.2s;
+}
+#Domio {
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 10px;
+}
+.nav h6 {
+  font-size: 25px;
+  color: black;
+  margin-right: 30px;
+}
+.nav-item img {
+  width: 25px;
+}
+#warsaw {
+  overflow-x: hidden;
+}
+.warsaw-1 img {
+  margin-top: 108 px;
+  width: 1636.5px;
+  margin-left: -173px;
+}
+.display-5 {
+  letter-spacing: 0.5px;
+  font-size: 25px;
+  font-family: "Plus Jakarta Sans";
+}
+.lead {
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  font-family: "Plus Jakarta Sans";
+}
+.px-5 {
+  border-radius: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 5rem !important;
+  padding-left: 5rem !important;
+}
+.btn {
+  background-color: #fff;
+  border: 1px solid black;
+  color: black;
+}
+.btn:hover {
+  border: limegreen;
+
+  color: rgb(238, 228, 157);
+}
+#show-casing {
+  margin-left: -245px;
+}
+.sh-casing,
+.piana {
+  text-align: start;
+  letter-spacing: 3px;
+  font-family: "Tenor Sans";
+  font-size: 38.4px;
+  /* line-height: 30px; */
+}
+.delicate {
+  text-align: start;
+  margin-left: -10px;
+  font-family: "Tenor Sans";
+  font-style: italic;
+  font-size: 35px;
+}
+.interior {
+  line-height: 30px;
+  font-family: Helvetica, sans-serif;
+  text-align: start;
+  font-size: 17px;
+}
+#show-casing {
+  overflow-x: hidden;
+  margin-top: -90px;
+}
+.image-fluid {
+  /* padding-right: 200px; */
+  max-width: 850px;
+  height: auto;
+}
+.domio-showcasing {
+  margin-top: -91px;
+}
+#chair{
+  margin-left: -326px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+.chair-bed img{
+  width: 120.5%;
+  height: auto;
+}
+#Threads{
+  margin-top: 250px;
+}
+.left-side{
+  margin-top: 70px;
+}
+.left-side img{
+  /* padding: 0px 60px 0px 0px; */
+  margin: 0px 130px 0px -65px;
+  width: 35%;
+}
+.left{
+  margin-left: 20px;
+}
+.right-side{
+  margin-top: -560px;
+  margin-left: 970px;
+}
+.right-side p{
+  margin: 0px -111.5px 0px 0px;
+  text-align: left;
+  font-size: 17px;
+  letter-spacing: normal;
+  line-height: 30px;
+  font-family: Helvetica, sans-serif;
+  font-weight: 100;
+}
+.right-side a{
+  color: black;
+}
+.right-side h6{
+ font-weight: 900;
+  font-family: "Plus Jakarta Sans";
+  text-align: left;
+  font-size: 20px;
+  color: black;
+  letter-spacing: normal;
+  line-height: 30px;
+  padding-top: 20px;
+}
+#interior{
+  margin-top: 370px;
+}
+.fw{
+ font-family:'Times New Roman', Times, serif;
+ font-style:italic;
+ font-size: 38.4px;
+ line-height: 42.24px;
+ text-align: center;
+ letter-spacing: normal;
+ font-weight: 500;
+}
+#interior p{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 18px;
+  line-height: 30px;
+  text-align: center;
+ letter-spacing: normal;
+ font-weight: 500;
+margin-top: 20px;
+
+}
+#threeimg{
+  margin-top: 100px;
+  display: flex;
+  flex-direction: row;
+  overflow: hidden;
+}
+.left-img img , .middle-img img , .right-img img{
+  width: 90%;
+}
