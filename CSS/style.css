@@ -190,6 +190,8 @@ margin-top: 20px;
     background-color: white;
     position: fixed;
     top: 0;
+    left: 0;
+    right: 0;
     width: 100%;
     transition: 0.2s;
   }
@@ -402,6 +404,8 @@ margin-top: 20px;
       background-color: white;
       position: fixed;
       top: 0;
+      left: 0;
+      right: 0;
       width: 100%;
       transition: 0.2s;
     }
