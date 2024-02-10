@@ -187,34 +187,37 @@
   }
 
   /* Header Styles */
-  #header {
-    background-color: white;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    width: 480px;
-    transition: 0.2s;
+  @media (min-width: 320px) and (max-width: 480px) {
+    /* Header Styles for Mobile */
+    #header {
+      background-color: white;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      width: 100%;
+      transition: 0.2s;
+      padding: 0px; /* Add some padding to the header for better spacing */
+    }
+  
+    #Domio {
+      margin-left: -10px; /* Adjust margin for better positioning */
+      font-size: 24px; /* Adjust font size for smaller screens */
+      letter-spacing: 4px;
+    }
+    .nav h6 {
+      padding-left: 27%;
+      margin-top: 2px;
+      font-size: 16px; /* Adjust font size for smaller screens */
+      color: black;
+      margin-left: 40px; /* Adjust margin for better positioning */
+        }
+  
+    .nav-item img {
+      width: 16px; /* Adjust image size for smaller screens */
+    }
   }
-
-  #Domio {
-    margin-left: 0;
-    font-size: 30px; /* Adjust font size for smaller screens */
-    font-family: Arial, Helvetica, sans-serif;
-    letter-spacing: 5px;
-  }
-
-  .nav h6 {
-    margin-top: 2px;
-    font-size: 18px; /* Adjust font size for smaller screens */
-    color: black;
-    margin-left: 65px; /* Adjust margin for smaller screens */
-  }
-
-  .nav-item img {
-    width: 18px; /* Adjust image size for smaller screens */
-  }
-
+  
   /* Warsaw Section Styles */
   #warsaw {
     width: 100%;
@@ -240,10 +243,14 @@
     font-family: "Plus Jakarta Sans";
   }
 
-  .px-5 {
+  .px-5{
+    margin: 48px 23px 0px 22px;
     border-radius: 0;
-    padding: 10px;
-  }
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-right: 0rem !important;
+    padding-left: 0rem !important;
+}
 
   .btn {
     background-color: #fff;
