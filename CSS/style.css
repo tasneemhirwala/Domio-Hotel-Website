@@ -180,7 +180,7 @@
 #project {
   overflow-x: hidden;
 }
-#project .img-project{
+#project .img-project {
   margin-right: 150px;
   margin-left: 0px;
 }
@@ -206,11 +206,10 @@
   text-align: start;
   letter-spacing: normal;
 }
-#project .d-grid{
+#project .d-grid {
   margin: 26px 23px 0px 0px;
   padding-top: 18px;
   padding-bottom: 18px;
-
 }
 
 #project .btn-lg {
@@ -234,266 +233,264 @@
   }
 
   /* Header Styles */
-  @media (min-width: 320px) and (max-width: 480px) {
-    /* Header Styles for Mobile */
-    #header {
-      background-color: white;
-      position: fixed;
-      top: 0;
-      left: 0;
-      right: 0;
-      width: 100%;
-      transition: 0.2s;
-      padding: 0px; /* Add some padding to the header for better spacing */
-    }
 
-    #Domio {
-      margin-left: -10px; /* Adjust margin for better positioning */
-      font-size: 24px; /* Adjust font size for smaller screens */
-      letter-spacing: 4px;
-    }
-    .nav h6 {
-      padding-left: 27%;
-      margin-top: 2px;
-      font-size: 16px; /* Adjust font size for smaller screens */
-      color: black;
-      margin-left: 40px; /* Adjust margin for better positioning */
-    }
-
-    .nav-item img {
-      width: 16px; /* Adjust image size for smaller screens */
-    }
+  /* Header Styles for Mobile */
+  #header {
+    background-color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    transition: 0.2s;
+    padding: 0px; /* Add some padding to the header for better spacing */
   }
 
+  #Domio {
+    margin-left: -10px; /* Adjust margin for better positioning */
+    font-size: 24px; /* Adjust font size for smaller screens */
+    letter-spacing: 4px;
+  }
+  .nav h6 {
+    padding-left: 27%;
+    margin-top: 2px;
+    font-size: 16px; /* Adjust font size for smaller screens */
+    color: black;
+    margin-left: 40px; /* Adjust margin for better positioning */
+  }
+
+  .nav-item img {
+    width: 16px; /* Adjust image size for smaller screens */
+  }
+  
   /* Warsaw Section Styles */
   #warsaw {
-    width: 100%;
-    overflow-x: hidden;
-  }
+  width: 100%;
+  overflow-x: hidden;
+}
 
-  .warsaw-1 img {
-    margin-top: 118px;
-    width: 139%;
-    margin-left: -72px;
-  }
+.warsaw-1 img {
+  margin-top: 118px;
+  width: 139%;
+  margin-left: -72px;
+}
 
-  /* Centered Hero Styles */
-  .display-5 {
-    letter-spacing: 0.5px;
-    font-size: 20px; /* Adjust font size for smaller screens */
-    font-family: "Plus Jakarta Sans";
-  }
+/* Centered Hero Styles */
+.display-5 {
+  letter-spacing: 0.5px;
+  font-size: 20px; /* Adjust font size for smaller screens */
+  font-family: "Plus Jakarta Sans";
+}
 
-  .lead {
-    font-size: 16px; /* Adjust font size for smaller screens */
-    letter-spacing: 0.5px;
-    font-family: "Plus Jakarta Sans";
-  }
+.lead {
+  font-size: 16px; /* Adjust font size for smaller screens */
+  letter-spacing: 0.5px;
+  font-family: "Plus Jakarta Sans";
+}
 
-  .px-5 {
-    margin: 48px 23px 0px 22px;
-    border-radius: 0;
-    padding-top: 18px;
-    padding-bottom: 18px;
-    padding-right: 0rem !important;
-    padding-left: 0rem !important;
-  }
+.px-5 {
+  margin: 48px 23px 0px 22px;
+  border-radius: 0;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-right: 0rem !important;
+  padding-left: 0rem !important;
+}
 
-  .btn {
-    background-color: #fff;
-    border: 1px solid black;
-    color: black;
-  }
+.btn {
+  background-color: #fff;
+  border: 1px solid black;
+  color: black;
+}
 
-  .btn:hover {
-    border: limegreen;
-    color: rgb(238, 228, 157);
-  }
+.btn:hover {
+  border: limegreen;
+  color: rgb(238, 228, 157);
+}
 
-  /* Showcasing Section Styles */
-  #show-casing {
-    margin-top: -108px;
-    margin-left: 0;
-  }
-  .sh-casing {
-    margin-top: 37px;
-  }
-  .sh-casing,
-  .piana {
-    text-align: start;
-    letter-spacing: 3px;
-    font-family: "Tenor Sans";
-    font-size: 30px; /* Adjust font size for smaller screens */
-  }
+/* Showcasing Section Styles */
+#show-casing {
+  margin-top: -108px;
+  margin-left: 0;
+}
+.sh-casing {
+  margin-top: 37px;
+}
+.sh-casing,
+.piana {
+  text-align: start;
+  letter-spacing: 3px;
+  font-family: "Tenor Sans";
+  font-size: 30px; /* Adjust font size for smaller screens */
+}
 
-  .delicate {
-    text-align: start;
-    margin-left: -5px;
-    font-family: "Tenor Sans";
-    font-style: italic;
-    font-size: 25px; /* Adjust font size for smaller screens */
-  }
+.delicate {
+  text-align: start;
+  margin-left: -5px;
+  font-family: "Tenor Sans";
+  font-style: italic;
+  font-size: 25px; /* Adjust font size for smaller screens */
+}
 
-  .interior {
-    margin-top: 25px;
-    line-height: 24px; /* Adjust line height for smaller screens */
-    font-family: Helvetica, sans-serif;
-    text-align: start;
-    font-size: 20px; /* Adjust font size for smaller screens */
-  }
+.interior {
+  margin-top: 25px;
+  line-height: 24px; /* Adjust line height for smaller screens */
+  font-family: Helvetica, sans-serif;
+  text-align: start;
+  font-size: 20px; /* Adjust font size for smaller screens */
+}
 
-  .image-fluid {
-    max-width: 136%;
-    height: auto;
-    margin-left: -16px;
-  }
+.image-fluid {
+  max-width: 136%;
+  height: auto;
+  margin-left: -16px;
+}
 
-  .domio-showcasing {
-    margin-top: 0;
-  }
+.domio-showcasing {
+  margin-top: 0;
+}
 
-  /* Chair Section Styles */
-  #chair {
-    margin-top: -25x;
-    margin-left: 0;
-    overflow-x: hidden;
-    overflow-y: hidden;
-  }
+/* Chair Section Styles */
+#chair {
+  margin-top: -25x;
+  margin-left: 0;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
 
-  .chair-bed img {
-    width: 100%;
-    height: auto;
-  }
+.chair-bed img {
+  width: 100%;
+  height: auto;
+}
 
-  /* Threads Section Styles */
-  #Threads {
-    margin-top: 50px; /* Adjust margin for smaller screens */
-  }
+/* Threads Section Styles */
+#Threads {
+  margin-top: 50px; /* Adjust margin for smaller screens */
+}
 
-  .left-side {
-    margin-top: 30px; /* Adjust margin for smaller screens */
-  }
+.left-side {
+  margin-top: 30px; /* Adjust margin for smaller screens */
+}
 
-  .left-side img {
-    padding-top: 15px;
-    margin: 0;
-    width: 100%;
-  }
+.left-side img {
+  padding-top: 15px;
+  margin: 0;
+  width: 100%;
+}
 
-  .left {
-    margin-left: 0;
-  }
+.left {
+  margin-left: 0;
+}
 
-  .right-side {
-    margin-top: 35px;
-    margin-left: 0;
-  }
+.right-side {
+  margin-top: 35px;
+  margin-left: 0;
+}
 
-  .right-side p {
-    margin: 0;
-    text-align: left;
-    font-size: 15px; /* Adjust font size for smaller screens */
-    letter-spacing: normal;
-    line-height: 24px; /* Adjust line height for smaller screens */
-    font-family: Helvetica, sans-serif;
-    font-weight: 100;
-  }
+.right-side p {
+  margin: 0;
+  text-align: left;
+  font-size: 15px; /* Adjust font size for smaller screens */
+  letter-spacing: normal;
+  line-height: 24px; /* Adjust line height for smaller screens */
+  font-family: Helvetica, sans-serif;
+  font-weight: 100;
+}
 
-  .right-side a {
-    color: black;
-  }
+.right-side a {
+  color: black;
+}
 
-  .right-side h6 {
-    font-weight: 900;
-    font-family: "Plus Jakarta Sans";
-    text-align: left;
-    font-size: 20px; /* Adjust font size for smaller screens */
-    color: black;
-    letter-spacing: normal;
-    line-height: 24px; /* Adjust line height for smaller screens */
-    padding-top: 10px; /* Adjust padding for smaller screens */
-  }
+.right-side h6 {
+  font-weight: 900;
+  font-family: "Plus Jakarta Sans";
+  text-align: left;
+  font-size: 20px; /* Adjust font size for smaller screens */
+  color: black;
+  letter-spacing: normal;
+  line-height: 24px; /* Adjust line height for smaller screens */
+  padding-top: 10px; /* Adjust padding for smaller screens */
+}
 
-  /* Interior Section Styles */
-  #interior {
-    margin-top: 20px; /* Adjust margin for smaller screens */
-  }
+/* Interior Section Styles */
+#interior {
+  margin-top: 20px; /* Adjust margin for smaller screens */
+}
 
-  .fw {
-    font-family: "Times New Roman", Times, serif;
-    font-style: italic;
-    font-size: 22px; /* Adjust font size for smaller screens */
-    line-height: 30px; /* Adjust line height for smaller screens */
-    /* text-align: center; */
-    letter-spacing: normal;
-    font-weight: 500;
-  }
+.fw {
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  font-size: 22px; /* Adjust font size for smaller screens */
+  line-height: 30px; /* Adjust line height for smaller screens */
+  /* text-align: center; */
+  letter-spacing: normal;
+  font-weight: 500;
+}
 
-  #interior p {
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
-      sans-serif;
-    word-spacing: -2px;
-    font-size: 20px; /* Adjust font size for smaller screens */
-    line-height: 20px; /* Adjust line height for smaller screens */
-    text-align: center;
-    letter-spacing: normal;
-    font-weight: 200;
-    margin-top: 10px; /* Adjust margin for smaller screens */
-  }
+#interior p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  word-spacing: -2px;
+  font-size: 20px; /* Adjust font size for smaller screens */
+  line-height: 20px; /* Adjust line height for smaller screens */
+  text-align: center;
+  letter-spacing: normal;
+  font-weight: 200;
+  margin-top: 10px; /* Adjust margin for smaller screens */
+}
 
-  #threeimg {
-    margin-top: 50px; /* Adjust margin for smaller screens */
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-  }
-  /* #project {
+#threeimg {
+  margin-top: 50px; /* Adjust margin for smaller screens */
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+/* #project {
     overflow-x: hidden;
   } */
-  #project .img-project{
+  #project .img-project {
     margin-top: -40px;
-    margin-left: 20px;
-  }
-  #project .proj {
-    margin-top: 70px;
-    margin-right: 700px;
-  }
-  #project .d-block {
-    max-width: 102%;
-    height: 100%;
-  }
-  #project .mb-3 {
-    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-    font-size: 38.4px;
-    line-height: 46.08px;
-    word-spacing: 10px;
-  }
-  .project-lead {
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-    font-size: 20px;
-    line-height: 30px;
-    text-align: start;
-    letter-spacing: normal;
-  }
-  #project .d-grid{
-    margin: 26px 23px 0px 0px;
-    padding-top: 18px;
-    padding-bottom: 18px;
-  
-  }
-  
-  #project .btn-lg {
-    background-color: #fff;
-    border: 1px solid black;
-    border-radius: 0;
-    color: black;
-  }
-  
-  #project .btn-lg:hover {
-    border: limegreen;
-    color: rgb(238, 228, 157);
-  }
+  margin-left: 20px;
+}
+#project .proj {
+  margin-top: 70px;
+  margin-right: 700px;
+}
+#project .d-block {
+  max-width: 102%;
+  height: 100%;
+}
+#project .mb-3 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 38.4px;
+  line-height: 46.08px;
+  word-spacing: 10px;
+}
+.project-lead {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: start;
+  letter-spacing: normal;
+}
+#project .d-grid {
+  margin: 26px 23px 0px 0px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
+#project .btn-lg {
+  background-color: #fff;
+  border: 1px solid black;
+  border-radius: 0;
+  color: black;
+}
+
+#project .btn-lg:hover {
+  border: limegreen;
+  color: rgb(238, 228, 157);
+}
+
 }
 @media (min-width: 481px) and (max-width: 768px) {
   /* Global Styles */
@@ -633,19 +630,15 @@
   }
 
   .left-side {
-    margin-top: 30px; /* Adjust margin for smaller screens */
+    margin-top: 30px;
+    margin-left: 68px; /* Adjust margin for smaller screens */
   }
 
   .left-side img {
     padding-top: 15px;
     margin: 0;
-    width: 100%;
+    width: 90%;
   }
-
-  .left {
-    margin-left: 0;
-  }
-
   .right-side {
     margin-top: 35px;
     margin-left: 0;
@@ -704,11 +697,66 @@
   }
 
   #threeimg {
+    width: 100%;
     margin-top: 50px; /* Adjust margin for smaller screens */
     display: flex;
     flex-direction: column;
     gap: 20px;
   }
+  .left-img img,
+.middle-img img,
+.right-img img {
+  width: 70%;
+}
+  #project {
+    overflow-x: hidden;
+  }
+  #project .img-project{
+    margin-top: -200px;
+    /* margin-right: 100px; */
+    margin-left: 12px;
+  }
+  #project .d-block {
+    max-width: 150%;
+    height: 100%;
+  }
+  #project .proj {
+    margin-top: 100px;
+    margin-right: 700px;
+  }
+  #project .mb-3 {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-size: 38.4px;
+    line-height: 46.08px;
+    word-spacing: 10px;
+  }
+  .project-lead {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: start;
+    letter-spacing: normal;
+  }
+  #project .d-grid{
+    margin: 26px 0px 0px 0px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+  
+  }
+  
+  #project .btn-lg {
+    background-color: #fff;
+    border: 1px solid black;
+    border-radius: 0;
+    color: black;
+    width: 50%;
+  }
+  
+  #project .btn-lg:hover {
+    border: limegreen;
+    color: rgb(238, 228, 157);
+  } 
 }
 @media (min-width: 769px) and (max-width: 1024px) {
   /* Global Styles */
@@ -856,11 +904,6 @@
     margin: 0;
     width: 100%;
   }
-
-  .left {
-    margin-left: 0;
-  }
-
   .right-side {
     margin-top: 35px;
     margin-left: 0;
@@ -924,6 +967,59 @@
     flex-direction: column;
     gap: 20px;
   }
+  .left-img img,
+.middle-img img,
+.right-img img {
+  width: 70%;
+}
+#project {
+  overflow-x: hidden;
+}
+#project .img-project{
+  margin-top: -27px;
+  /* margin-right: 150px; */
+  margin-left: 120px;
+}
+#project .d-block {
+  max-width: 100%;
+  height: 100%;
+}
+#project .proj {
+  margin-top: 100px;
+  margin-right: 700px;
+}
+#project .mb-3 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 38.4px;
+  line-height: 46.08px;
+  word-spacing: 10px;
+}
+.project-lead {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: start;
+  letter-spacing: normal;
+}
+#project .d-grid{
+  margin: 26px 23px 0px 0px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+
+}
+
+#project .btn-lg {
+  background-color: #fff;
+  border: 1px solid black;
+  border-radius: 0;
+  color: black;
+}
+
+#project .btn-lg:hover {
+  border: limegreen;
+  color: rgb(238, 228, 157);
+}
 }
 @media (min-width: 1025px) and (max-width: 1200px) {
   /* Global Styles */
@@ -1139,4 +1235,58 @@
     flex-direction: column;
     gap: 20px;
   }
+  .left-img img,
+.middle-img img,
+.right-img img {
+  width: 70%;
+}
+#project {
+  overflow-x: hidden;
+}
+#project .img-project{
+  margin-top: -27px;
+  margin-right: 290px;
+  /* margin-left: 120px; */
+}
+#project .d-block {
+  max-width: 120%;
+  height: 100%;
+}
+#project .proj {
+  margin-top: 100px;
+  margin-right: 450px;
+}
+#project .mb-3 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 38.4px;
+  line-height: 46.08px;
+  word-spacing: 10px;
+}
+.project-lead {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: start;
+  letter-spacing: normal;
+}
+#project .d-grid{
+  margin: 26px 23px 0px 0px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+
+}
+
+#project .btn-lg {
+  background-color: #fff;
+  border: 1px solid black;
+  border-radius: 0;
+  color: black;
+}
+
+#project .btn-lg:hover {
+  border: limegreen;
+  color: rgb(238, 228, 157);
+}
+
 }
