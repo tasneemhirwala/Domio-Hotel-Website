@@ -262,235 +262,236 @@
   .nav-item img {
     width: 16px; /* Adjust image size for smaller screens */
   }
-  
+
   /* Warsaw Section Styles */
   #warsaw {
-  width: 100%;
-  overflow-x: hidden;
-}
+    width: 100%;
+    overflow-x: hidden;
+  }
 
-.warsaw-1 img {
-  margin-top: 118px;
-  width: 139%;
-  margin-left: -72px;
-}
+  .warsaw-1 img {
+    margin-top: 118px;
+    width: 139%;
+    margin-left: -72px;
+  }
 
-/* Centered Hero Styles */
-.display-5 {
-  letter-spacing: 0.5px;
-  font-size: 20px; /* Adjust font size for smaller screens */
-  font-family: "Plus Jakarta Sans";
-}
+  /* Centered Hero Styles */
+  .display-5 {
+    letter-spacing: 0.5px;
+    font-size: 20px; /* Adjust font size for smaller screens */
+    font-family: "Plus Jakarta Sans";
+  }
 
-.lead {
-  font-size: 16px; /* Adjust font size for smaller screens */
-  letter-spacing: 0.5px;
-  font-family: "Plus Jakarta Sans";
-}
+  .lead {
+    font-size: 16px; /* Adjust font size for smaller screens */
+    letter-spacing: 0.5px;
+    font-family: "Plus Jakarta Sans";
+  }
 
-.px-5 {
-  margin: 48px 23px 0px 22px;
-  border-radius: 0;
-  padding-top: 18px;
-  padding-bottom: 18px;
-  padding-right: 0rem !important;
-  padding-left: 0rem !important;
-}
+  .px-5 {
+    margin: 48px 23px 0px 22px;
+    border-radius: 0;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-right: 0rem !important;
+    padding-left: 0rem !important;
+  }
 
-.btn {
-  background-color: #fff;
-  border: 1px solid black;
-  color: black;
-}
+  .btn {
+    background-color: #fff;
+    border: 1px solid black;
+    color: black;
+  }
 
-.btn:hover {
-  border: limegreen;
-  color: rgb(238, 228, 157);
-}
+  .btn:hover {
+    border: limegreen;
+    color: rgb(238, 228, 157);
+  }
 
-/* Showcasing Section Styles */
-#show-casing {
-  margin-top: -108px;
-  margin-left: 0;
-}
-.sh-casing {
-  margin-top: 37px;
-}
-.sh-casing,
-.piana {
-  text-align: start;
-  letter-spacing: 3px;
-  font-family: "Tenor Sans";
-  font-size: 30px; /* Adjust font size for smaller screens */
-}
+  /* Showcasing Section Styles */
+  #show-casing {
+    margin-top: -108px;
+    margin-left: 0;
+  }
+  .sh-casing {
+    margin-top: 37px;
+  }
+  .sh-casing,
+  .piana {
+    text-align: start;
+    letter-spacing: 3px;
+    font-family: "Tenor Sans";
+    font-size: 30px; /* Adjust font size for smaller screens */
+  }
 
-.delicate {
-  text-align: start;
-  margin-left: -5px;
-  font-family: "Tenor Sans";
-  font-style: italic;
-  font-size: 25px; /* Adjust font size for smaller screens */
-}
+  .delicate {
+    text-align: start;
+    margin-left: -5px;
+    font-family: "Tenor Sans";
+    font-style: italic;
+    font-size: 25px; /* Adjust font size for smaller screens */
+  }
 
-.interior {
-  margin-top: 25px;
-  line-height: 24px; /* Adjust line height for smaller screens */
-  font-family: Helvetica, sans-serif;
-  text-align: start;
-  font-size: 20px; /* Adjust font size for smaller screens */
-}
+  .interior {
+    margin-top: 25px;
+    line-height: 24px; /* Adjust line height for smaller screens */
+    font-family: Helvetica, sans-serif;
+    text-align: start;
+    font-size: 20px; /* Adjust font size for smaller screens */
+  }
 
-.image-fluid {
-  max-width: 136%;
-  height: auto;
-  margin-left: -16px;
-}
+  .image-fluid {
+    max-width: 136%;
+    height: auto;
+    margin-left: -16px;
+  }
 
-.domio-showcasing {
-  margin-top: 0;
-}
+  .domio-showcasing {
+    margin-top: 0;
+  }
 
-/* Chair Section Styles */
-#chair {
-  margin-top: -25x;
-  margin-left: 0;
-  overflow-x: hidden;
-  overflow-y: hidden;
-}
+  /* Chair Section Styles */
+  #chair {
+    margin-top: -25px;
+    margin-left: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+  }
 
-.chair-bed img {
-  width: 100%;
-  height: auto;
-}
+  .chair-bed img {
+    width: 100%;
+    height: auto;
+  }
 
-/* Threads Section Styles */
-#Threads {
-  margin-top: 50px; /* Adjust margin for smaller screens */
-}
+  /* Threads Section Styles */
+  #Threads {
+    margin-top: 50px; /* Adjust margin for smaller screens */
+  }
 
-.left-side {
-  margin-top: 30px; /* Adjust margin for smaller screens */
-}
+  .left-side {
+    margin-top: 30px; /* Adjust margin for smaller screens */
+  }
 
-.left-side img {
-  padding-top: 15px;
-  margin: 0;
-  width: 100%;
-}
+  .left-side img {
+    padding-top: 15px;
+    margin: 0;
+    width: 100%;
+  }
 
-.left {
-  margin-left: 0;
-}
+  .left {
+    margin-left: 0;
+  }
 
-.right-side {
-  margin-top: 35px;
-  margin-left: 0;
-}
+  .right-side {
+    margin-top: 35px;
+    margin-left: 0;
+  }
 
-.right-side p {
-  margin: 0;
-  text-align: left;
-  font-size: 15px; /* Adjust font size for smaller screens */
-  letter-spacing: normal;
-  line-height: 24px; /* Adjust line height for smaller screens */
-  font-family: Helvetica, sans-serif;
-  font-weight: 100;
-}
+  .right-side p {
+    margin: 0;
+    text-align: left;
+    font-size: 15px; /* Adjust font size for smaller screens */
+    letter-spacing: normal;
+    line-height: 24px; /* Adjust line height for smaller screens */
+    font-family: Helvetica, sans-serif;
+    font-weight: 100;
+  }
 
-.right-side a {
-  color: black;
-}
+  .right-side a {
+    color: black;
+  }
 
-.right-side h6 {
-  font-weight: 900;
-  font-family: "Plus Jakarta Sans";
-  text-align: left;
-  font-size: 20px; /* Adjust font size for smaller screens */
-  color: black;
-  letter-spacing: normal;
-  line-height: 24px; /* Adjust line height for smaller screens */
-  padding-top: 10px; /* Adjust padding for smaller screens */
-}
+  .right-side h6 {
+    font-weight: 900;
+    font-family: "Plus Jakarta Sans";
+    text-align: left;
+    font-size: 20px; /* Adjust font size for smaller screens */
+    color: black;
+    letter-spacing: normal;
+    line-height: 24px; /* Adjust line height for smaller screens */
+    padding-top: 10px; /* Adjust padding for smaller screens */
+  }
 
-/* Interior Section Styles */
-#interior {
-  margin-top: 20px; /* Adjust margin for smaller screens */
-}
+  /* Interior Section Styles */
+  #interior {
+    margin-top: 20px; /* Adjust margin for smaller screens */
+  }
 
-.fw {
-  font-family: "Times New Roman", Times, serif;
-  font-style: italic;
-  font-size: 22px; /* Adjust font size for smaller screens */
-  line-height: 30px; /* Adjust line height for smaller screens */
-  /* text-align: center; */
-  letter-spacing: normal;
-  font-weight: 500;
-}
+  .fw {
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    font-size: 22px; /* Adjust font size for smaller screens */
+    line-height: 30px; /* Adjust line height for smaller screens */
+    /* text-align: center; */
+    letter-spacing: normal;
+    font-weight: 500;
+  }
 
-#interior p {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  word-spacing: -2px;
-  font-size: 20px; /* Adjust font size for smaller screens */
-  line-height: 20px; /* Adjust line height for smaller screens */
-  text-align: center;
-  letter-spacing: normal;
-  font-weight: 200;
-  margin-top: 10px; /* Adjust margin for smaller screens */
-}
+  #interior p {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    word-spacing: -2px;
+    font-size: 20px; /* Adjust font size for smaller screens */
+    line-height: 20px; /* Adjust line height for smaller screens */
+    text-align: center;
+    letter-spacing: normal;
+    font-weight: 200;
+    margin-top: 10px; /* Adjust margin for smaller screens */
+  }
 
-#threeimg {
-  margin-top: 50px; /* Adjust margin for smaller screens */
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-}
-/* #project {
+  #threeimg {
+    margin-top: 50px; /* Adjust margin for smaller screens */
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  /* #project {
     overflow-x: hidden;
   } */
   #project .img-project {
     margin-top: -40px;
-  margin-left: 20px;
-}
-#project .proj {
-  margin-top: 70px;
-  margin-right: 700px;
-}
-#project .d-block {
-  max-width: 102%;
-  height: 100%;
-}
-#project .mb-3 {
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-  font-size: 38.4px;
-  line-height: 46.08px;
-  word-spacing: 10px;
-}
-.project-lead {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  font-size: 20px;
-  line-height: 30px;
-  text-align: start;
-  letter-spacing: normal;
-}
-#project .d-grid {
-  margin: 26px 23px 0px 0px;
-  padding-top: 18px;
-  padding-bottom: 18px;
-}
+    margin-left: 20px;
+  }
+  #project .proj {
+    margin-top: 70px;
+    margin-right: 700px;
+  }
+  #project .d-block {
+    max-width: 102%;
+    height: 100%;
+  }
+  #project .mb-3 {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-size: 38.4px;
+    line-height: 46.08px;
+    word-spacing: 10px;
+  }
+  .project-lead {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: start;
+    letter-spacing: normal;
+  }
+  #project .d-grid {
+    margin: 26px 23px 0px 0px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+  }
 
-#project .btn-lg {
-  background-color: #fff;
-  border: 1px solid black;
-  border-radius: 0;
-  color: black;
-}
+  #project .btn-lg {
+    background-color: #fff;
+    border: 1px solid black;
+    border-radius: 0;
+    color: black;
+  }
 
-#project .btn-lg:hover {
-  border: limegreen;
-  color: rgb(238, 228, 157);
-}
-
+  #project .btn-lg:hover {
+    border: limegreen;
+    color: rgb(238, 228, 157);
+  }
 }
 @media (min-width: 481px) and (max-width: 768px) {
   /* Global Styles */
@@ -613,7 +614,7 @@
 
   /* Chair Section Styles */
   #chair {
-    margin-top: -25x;
+    margin-top: -25px;
     margin-left: 0;
     overflow-x: hidden;
     overflow-y: hidden;
@@ -704,14 +705,14 @@
     gap: 20px;
   }
   .left-img img,
-.middle-img img,
-.right-img img {
-  width: 70%;
-}
+  .middle-img img,
+  .right-img img {
+    width: 70%;
+  }
   #project {
     overflow-x: hidden;
   }
-  #project .img-project{
+  #project .img-project {
     margin-top: -200px;
     /* margin-right: 100px; */
     margin-left: 12px;
@@ -732,19 +733,19 @@
     word-spacing: 10px;
   }
   .project-lead {
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
     font-size: 20px;
     line-height: 30px;
     text-align: start;
     letter-spacing: normal;
   }
-  #project .d-grid{
+  #project .d-grid {
     margin: 26px 0px 0px 0px;
     padding-top: 18px;
     padding-bottom: 18px;
-  
   }
-  
+
   #project .btn-lg {
     background-color: #fff;
     border: 1px solid black;
@@ -752,11 +753,11 @@
     color: black;
     width: 50%;
   }
-  
+
   #project .btn-lg:hover {
     border: limegreen;
     color: rgb(238, 228, 157);
-  } 
+  }
 }
 @media (min-width: 769px) and (max-width: 1024px) {
   /* Global Styles */
@@ -879,7 +880,7 @@
 
   /* Chair Section Styles */
   #chair {
-    margin-top: -25x;
+    margin-top: -25px;
     margin-left: 0;
     overflow-x: hidden;
     overflow-y: hidden;
@@ -968,61 +969,62 @@
     gap: 20px;
   }
   .left-img img,
-.middle-img img,
-.right-img img {
-  width: 70%;
-}
-#project {
-  overflow-x: hidden;
-}
-#project .img-project{
-  margin-top: -27px;
-  /* margin-right: 150px; */
-  margin-left: 120px;
-}
-#project .d-block {
-  max-width: 100%;
-  height: 100%;
-}
-#project .proj {
-  margin-top: 100px;
-  margin-right: 700px;
-}
-#project .mb-3 {
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-  font-size: 38.4px;
-  line-height: 46.08px;
-  word-spacing: 10px;
-}
-.project-lead {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  font-size: 20px;
-  line-height: 30px;
-  text-align: start;
-  letter-spacing: normal;
-}
-#project .d-grid{
-  margin: 26px 23px 0px 0px;
-  padding-top: 18px;
-  padding-bottom: 18px;
+  .middle-img img,
+  .right-img img {
+    width: 70%;
+  }
+  #project {
+    overflow-x: hidden;
+  }
+  #project .img-project {
+    margin-top: -27px;
+    /* margin-right: 150px; */
+    margin-left: 120px;
+  }
+  #project .d-block {
+    max-width: 100%;
+    height: 100%;
+  }
+  #project .proj {
+    margin-top: 100px;
+    margin-right: 700px;
+  }
+  #project .mb-3 {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-size: 38.4px;
+    line-height: 46.08px;
+    word-spacing: 10px;
+  }
+  .project-lead {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: start;
+    letter-spacing: normal;
+  }
+  #project .d-grid {
+    margin: 26px 23px 0px 0px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+  }
 
-}
+  #project .btn-lg {
+    background-color: #fff;
+    border: 1px solid black;
+    border-radius: 0;
+    color: black;
+  }
 
-#project .btn-lg {
-  background-color: #fff;
-  border: 1px solid black;
-  border-radius: 0;
-  color: black;
+  #project .btn-lg:hover {
+    border: limegreen;
+    color: rgb(238, 228, 157);
+  }
 }
+/* Global Styles */
 
-#project .btn-lg:hover {
-  border: limegreen;
-  color: rgb(238, 228, 157);
-}
-}
 @media (min-width: 1025px) and (max-width: 1200px) {
-  /* Global Styles */
   * {
     background-color: white;
     padding: 0;
@@ -1095,7 +1097,7 @@
   }
 
   .btn:hover {
-    border: limegreen;
+    border: 1px solid limegreen; /* Corrected border style */
     color: rgb(238, 228, 157);
   }
 
@@ -1142,7 +1144,7 @@
 
   /* Chair Section Styles */
   #chair {
-    margin-top: -25x;
+    margin-top: -25px; /* Corrected the unit */
     margin-left: 0;
     overflow-x: hidden;
     overflow-y: hidden;
@@ -1161,20 +1163,15 @@
   .left-side {
     margin-top: 30px; /* Adjust margin for smaller screens */
   }
-
   .left-side img {
     padding-top: 15px;
-    margin: 0;
-    width: 100%;
+    width: 32%;
+    margin-left: -18px;
+    margin-right: 69px;
   }
-
-  .left {
-    margin-left: 0;
-  }
-
   .right-side {
-    margin-top: 35px;
-    margin-left: 0;
+    margin-top: -371px;
+    margin-left: 684px;
   }
 
   .right-side p {
@@ -1232,61 +1229,62 @@
   #threeimg {
     margin-top: 50px; /* Adjust margin for smaller screens */
     display: flex;
-    flex-direction: column;
-    gap: 20px;
+    flex-direction: row;
+    gap: 10px;
   }
   .left-img img,
-.middle-img img,
-.right-img img {
-  width: 70%;
-}
-#project {
-  overflow-x: hidden;
-}
-#project .img-project{
-  margin-top: -27px;
-  margin-right: 290px;
-  /* margin-left: 120px; */
-}
-#project .d-block {
-  max-width: 120%;
-  height: 100%;
-}
-#project .proj {
-  margin-top: 100px;
-  margin-right: 450px;
-}
-#project .mb-3 {
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-  font-size: 38.4px;
-  line-height: 46.08px;
-  word-spacing: 10px;
-}
-.project-lead {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  font-size: 20px;
-  line-height: 30px;
-  text-align: start;
-  letter-spacing: normal;
-}
-#project .d-grid{
-  margin: 26px 23px 0px 0px;
-  padding-top: 18px;
-  padding-bottom: 18px;
+  .middle-img img,
+  .right-img img {
+    width: 90%;
+  }
+  #project {
+    overflow-x: hidden;
+    margin-top: 100px;
+  }
+  #project .img-project {
+    margin-top: -27px;
+    margin-right: 59px;
+    /* margin-left: 120px; */
+  }
+  #project .d-block {
+    max-width: 155%;
+    height: 100%;
+  }
+  #project .proj {
+    background-color: transparent;
+    margin-top: -566px;
+    margin-right: 520px;
+  }
+  #project .mb-3 {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-size: 44.4px;
+    line-height: 46.08;
+  }
+  .project-lead {
+    margin-top: 10px;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: start;
+    letter-spacing: normal;
+  }
+  #project .d-grid {
+    margin: 26px 23px 0px 0px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+  }
 
-}
+  #project .btn-lg {
+    background-color: #fff;
+    border: 1px solid black;
+    border-radius: 0;
+    color: black;
+  }
 
-#project .btn-lg {
-  background-color: #fff;
-  border: 1px solid black;
-  border-radius: 0;
-  color: black;
-}
-
-#project .btn-lg:hover {
-  border: limegreen;
-  color: rgb(238, 228, 157);
-}
-
+  #project .btn-lg:hover {
+    border: limegreen;
+    color: rgb(238, 228, 157);
+  }
 }
