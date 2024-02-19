@@ -329,7 +329,7 @@
   margin: 77px 0px 0px -140px;
   width: 120%;
 }
-#touches{
+#touches {
   margin-top: -70px;
 }
 #touches h1 {
@@ -351,27 +351,26 @@
   text-align: center;
   font-family: "Plus Jakarta Sans", sans-serif;
 }
-#touches #threeimg{
+#touches #threeimg {
   margin-top: 75px;
 }
-#Services{
+#Services {
   overflow-x: hidden;
 }
-#Services .container{
-
+#Services .container {
   margin-left: 140px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   gap: 55px;
 }
-#Services .box{
+#Services .box {
   width: 260px;
   height: 75px;
   padding: 5px;
-  border: 2px solid black ;
+  border: 2px solid black;
 }
-#Services a{
+#Services a {
   color: black;
   text-decoration: none;
   margin-top: 16px;
@@ -380,58 +379,145 @@
   justify-content: center;
   align-items: center;
 }
-#hall{
+#hall {
   margin-top: 100px;
   overflow-x: hidden;
 }
-#hall img{
-  width: 100%
+#hall img {
+  width: 100%;
 }
 #project-department {
   margin-top: 57px;
   overflow-x: hidden;
 }
-#project-department .gift{
+#project-department .gift {
   max-width: 200%;
 }
-#project-department .accessories{
+#project-department .accessories {
   font-weight: 400;
   font-family: "Tenor Sans", sans-serif;
   font-style: normal;
   font-size: 45.04px;
 }
-#project-department .touch-gleam{
+#project-department .touch-gleam {
   font-family: "Work Sans", sans-serif;
   font-size: 20px;
   font-weight: 400;
   font-style: normal;
 }
-#project-department .details-design{
+#project-department .details-design {
   font-family: "Playfair Display", serif;
   margin-top: 5px;
   word-spacing: 0;
   font-weight: 200;
 }
-#contact-us{
+#contact-us {
   margin-top: 90px;
   overflow-x: hidden;
 }
-.companies{
+.companies {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
-.companies h1{
+.companies h1 {
   font-weight: 700;
   font-family: "Tenor Sans", sans-serif;
   font-style: normal;
   font-size: 50px;
 }
-.companies img{
+.companies img {
   margin-top: 15px;
   width: 35%;
 }
+.number {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#con {
+  margin-top: 100px;
+}
+#personal-assistance {
+  margin-top: 0;
+  margin-left: 20px;
+  overflow-x: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+#gmail,
+#phone {
+  width: 30%;
+  height: auto;
+}
+#gmail img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+#gmail h1 {
+  font-family: "Tenor Sans", sans-serif;
+  text-align: center;
+  font-size: 30px;
+}
+#gmail p {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 18px;
+  letter-spacing: 0;
+}
+#gmail a {
+  margin-left: 100px;
+  color: black;
+  text-align: center;
+  font-weight: 600;
+}
+#phone img {
+  margin-top: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+#phone h1 {
+  font-family: "Tenor Sans", sans-serif;
+  text-align: center;
+  font-size: 30px;
+}
+#phone {
+  width: 25%;
+}
+#phone p {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 17px;
+}
+#phone a {
+  margin-left: 120px;
+  color: black;
+  text-align: center;
+  font-weight: 600;
+}
+#footer a{
+  
+  font-weight: 400;
+  color: black;
+  text-align: center;
+  transition: all 5s linear;
+}
+
+a:hover,
+a:focus {
+  text-decoration: none;
+  background-color: #fff;
+  color: #333;
+}
+
 @media (min-width: 360px) and (max-width: 480px) {
   /* Global Styles */
   * {
